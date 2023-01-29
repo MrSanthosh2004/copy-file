@@ -42,4 +42,4 @@ Output:
 
 
 ## RESULT:
-Thus the program is written to copy the contents from one file to another file.
+Thus the program is written to copy the contents from one file to another file
